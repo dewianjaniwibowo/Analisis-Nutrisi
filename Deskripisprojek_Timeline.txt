@@ -1,0 +1,16 @@
+Timeline
+
+Pertemuan 1 : Setup Proyek & GitHub
+Target dan Detail Pengerjaan : Mmebuat Repo di GitHub, Setup flask & virtual enviroment, membuat folder proyek,setup python venv,install flask & pandas,dan buat repo github & upload file awal ('app.py', 'README.md')
+
+Petemuan 2 : Membuat Input & API Nutrisi
+Target dan Detail Pengerjaan : Form input bahan makanan & ambil data nutrisi dari API.Buat halaman input (HTML/Streamlit). , Hubungkan ke API USDA/Nutririon API untuk fetch data nutrisi
+
+Pertemuan 3 : Hitung kalori & Nutrisi
+Target dan Detail Pengerjaan : Proses input pengguna & hitung total kalori, protein, lemak, dll. Gunakan Pandas untuk mengolah data, menampilkan hasil dalam tabel di web
+
+Pertemuan 4 :Visualisasi Data (Grafik dan Chart)
+Target dan Detail Pengerjaan : Menambahkan grafik pie/bar untuk memudahkan analisis nutrisi. Mmenggunakan Matplotlib/Plotly untuk menampilkan grafik interaktif
+
+Pertemuan 5 : Saran makanan sehat & finalisasi 
+Target dan Detail Pengerjaan :Menambhakan fitur rekomendasi makanana sehat & memperbaiki UI. Mmebuat sistem rekomendasi sederhana, dan memperbaiki tampilan agar lebih menarik terakhir yaitu final commit & upload ke github
